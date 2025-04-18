@@ -30,12 +30,11 @@
 - Version control with Git
 
 ## 📫 How to Reach Me
-- 📧 University Email: [your.email]@bristol.ac.uk
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@YourHandle]
+- 📧 University Email: fy24830@bristol.ac.uk
+- 💼 LinkedIn: www.linkedin.com/in/luke-twum-barima-889571233
 
 ## 📊 GitHub Statistics
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=justluke17&show_icons=true&theme=dark)
 
 ## 🤝 Open to Collaborate On
 - Economic research projects
