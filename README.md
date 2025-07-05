@@ -13,7 +13,7 @@
 - **Tools:** Jupyter Notebooks, Git, LaTeX
 
 ## 📈 Current Projects
-- Analysing UK labour market trends post-Brexit
+- Better Email Inbox
 - Developing economic forecasting models using Python
 - Building interactive visualisations of macroeconomic indicators
 
